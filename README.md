@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Prashant
 - 🔭 I’m currently working on [OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning javascript 
+- 👯 I’m looking to collaborate on open-source Projects
+- 🤔 I’m looking for help with web development and IOT 
+- 💬 Ask me about web-dev 
 
 <!--
 **prashant-ksingh/prashant-ksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
