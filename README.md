@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on [OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)
 - 🌱 I’m currently learning & trying javascript 
 - 👯 I’m looking to collaborate on open-source Projects
-- 🤔 I’m looking for help with web development and IOT 
+- 🤔 I’m looking for help with web development and IOT projects 
 - 💬 Ask me about web-dev 
 
 <!--
