@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer and Robo Enthusiast from INDIA</h3>
 
 <br/>
-- 🔭 I’m currently working professionally as SDE-1 on[OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)<br/>
+- 🔭 I’m currently working professionally as SDE-1 on a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
 <div align="center">
          - 🌱 I’m currently learning & trying javascript <br/>
          - 👯 I’m looking to collaborate on open-source projects. <br/>
