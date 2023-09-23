@@ -7,12 +7,11 @@
 <h3 align="center">A passionate software developer and Robo Enthusiast from INDIA</h3>
 
 <br/>
-
-<div align="center"> 
-         - 🔭 I’m currently working professionally as SDE-1 on ** [OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)**
-         - 🌱 I’m currently learning & trying ** javascript **
-         - 👯 I’m looking to collaborate on** open-source Projects**
-         - 🤔 I’m looking for help with **web development and IOT projects**
+- 🔭 I’m currently working professionally as SDE-1 on[OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)<br/>
+<div align="center">
+         - 🌱 I’m currently learning & trying javascript <br/>
+         - 👯 I’m looking to collaborate on open-source projects. <br/>
+         - 🤔 I’m looking for help with web development and IOT projects. <br/>
          - 💬 Ask me about web-dev
 </div>
 <div align="center"> 
