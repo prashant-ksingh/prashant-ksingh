@@ -9,11 +9,23 @@
 <br/>
 
 <div align="center">
-- 🔭 I’m currently working professionally as SDE-1 on [OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)
-- 🌱 I’m currently learning & trying javascript 
-- 👯 I’m looking to collaborate on open-source Projects
-- 🤔 I’m looking for help with web development and IOT projects 
-- 💬 Ask me about web-dev 
+   <ul>
+      <li>
+         - 🔭 I’m currently working professionally as SDE-1 on [OnePost](https://onepost.sasone.in/) & [SASOne](https://www.sasone.in/)
+      </li>
+      <li>
+         - 🌱 I’m currently learning & trying javascript
+      </li>
+      <li>
+         - 👯 I’m looking to collaborate on open-source Projects
+      </li>
+      <li>
+         - 🤔 I’m looking for help with web development and IOT projects 
+      </li>
+      <li>
+         - 💬 Ask me about web-dev
+      </li>
+   </ul>
 </div>
 
 <!--
