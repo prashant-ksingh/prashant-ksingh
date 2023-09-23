@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prashant-ksingh.prashant-ksingh" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-      font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+ k Singh!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?
+      font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+ k Singh!;" /> -->
 </h1>
 
 <h3 align="center">A passionate software developer and Robo Enthusiast from INDIA</h3>
