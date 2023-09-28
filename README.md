@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prashant-ksingh.prashant-ksingh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prashant-ksingh" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&center=true&multiline=true&width=450&height=65&lines=Hi+There!+%F0%9F%91%8B;I'm+Prashant+k+Singh+" alt="Typing SVG" /></a>
