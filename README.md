@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-         - 🔭 I’m currently working professionally as SDE-1 on <a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
+         - 🔭 Worked professionally as SDE-1 on <a href="https://onepost.sasone.in">[OnePost]</a>&<a href="https://www.sasone.in/">[SASOne]</a> <br/>
          - 🌱 I’m currently learning & trying javascript <br/>
          - 👯 I’m looking to collaborate on open-source projects. <br/>
          - 🤔 I’m looking for help with web development and IOT projects. <br/>
